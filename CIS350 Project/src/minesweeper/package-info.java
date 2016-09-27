@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author Kate
+ *
+ */
+package minesweeper;
